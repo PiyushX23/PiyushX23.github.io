@@ -1,8 +1,7 @@
 github_users:
-  - sdaza
+  - yefee
 
 github_repos:
-  - sdaza/acsr
-  - sdaza/zotnote
-  - sdaza/sampler
-  - sdaza/survey-methods
+  - yefee/xMCA
+  - yefee/xcesm
+  - yefee/AMCV

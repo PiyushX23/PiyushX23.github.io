@@ -3,11 +3,11 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Sebastian
+first_name: Chengfei
 middle_name:
-last_name: Daza
-email: sebastian.daza@gmail.com
-description: Demography, Sociology, Simulation, Data Science
+last_name: He
+email: cxh1079@miami.edu
+description: Climate Modeling and Dynamics, Data Science, Paleoclimate
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -16,7 +16,7 @@ keywords:
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🎯  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://sdaza.github.io # the base hostname & protocol for your site
+url: https://yefee.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -39,7 +39,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -65,20 +65,20 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: sdaza
-gitlab_username: sebastian.daza
-twitter_username: sebadaza
+github_username: yefee
+gitlab_username: #sebastian.daza
+twitter_username: #sebadaza
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: sdaza
+linkedin_username: #sdaza
 telegram_username: # your Telegram user name
-scholar_userid: VaCkLrYAAAAJ # your Google Scholar ID
+scholar_userid: M7Vjq24AAAAJ&hl # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
+orcid_id: 0000-0003-1453-9691 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Chengfei-He # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
@@ -102,18 +102,18 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics: G-4HQ7XRSJQG  # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics:  # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
-google_site_verification: Aoorj5Z96fS0WAJS5xLEvSb7Bn9yMznQrwPd3w8NErM # your google-site-verification ID (Google Search Console)
+google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: blog # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+blog_name: # blog_name will be displayed in your blog page
+blog_nav_title:  # your blog must have a title for it to be displayed in the nav bar
 blog_description: learnings, stats, demography, sociology
 permalink: /blog/:year/:title/
 
@@ -125,8 +125,8 @@ pagination:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: sdaza/sdaza.github.io      # <your-github-user-name>/<your-github-repo-name>
-  repo_id: MDEwOlJlcG9zaXRvcnk1MzY3MjE3MQ==
+  repo: yefee/yefee.github.io      # <your-github-user-name>/<your-github-repo-name>
+  repo_id: #MDEwOlJlcG9zaXRvcnk1MzY3MjE3MQ==
   category: Comments             # name of the category under which discussions will be created
   category_id: DIC_kwDOA5PmLc4CTBt6
   mapping: title                 # identify discussions by post title
@@ -249,14 +249,14 @@ display_tags: ['R', 'data science', 'zotero', 'anylogic', 'ABM', 'demography', '
 
 scholar:
 
-  last_name: [Daza]
-  first_name: [Sebastian]
+  last_name: [He]
+  first_name: [Chengfei, C.]
 
   style: apa
   locale: en
 
   source: /_bibliography/
-  bibliography: sdaza.bib
+  bibliography: chengfei.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
@@ -265,8 +265,8 @@ scholar:
   sort_by: date
   order: descending
   type_aliases: { inproceedings: incollection}
-  type_order: [article, unpublished, incollection, report]
-  type_names: {unpublished: working papers, report: technical reports, techreport: technical reports, article: journal articles, incollection: books & conferences}
+  type_order: [unpublished, article, incollection, report]
+  type_names: {unpublished: In Prep, report: technical reports, techreport: technical reports, article: Journal Articles, incollection: books & conferences}
     
   bibtex_filters: [latex, smallcaps, superscript]
 
@@ -283,10 +283,10 @@ badges: # Display different badges for your pulications
   dimensions_badge: true # Dimensions badge (https://badge.dimensions.ai/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
-filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
+filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric] # 
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 2  # leave blank to always show all authors
+max_author_limit: 20  # leave blank to always show all authors
 more_authors_animation_delay: 10  # more authors are revealed on click using animation; smaller delay means faster animation
 
 

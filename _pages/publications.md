@@ -1,12 +1,15 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
+nav: true
+nav_order: 2
+
+
 description:
 # years: [2021, 2020, 2019, 2018, 2016, 2014]
-nav: false
 ---
 
 <div class="publications">
- {% bibliography -f sdaza --group_by type %}
+ {% bibliography -f chengfei --group_by type %}
 </div>

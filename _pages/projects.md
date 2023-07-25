@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: Research
 permalink: /projects/
 description:
-nav: false
-nav_order: 2
+nav: True
+nav_order: 1
 display_categories: [current, previous]
 horizontal: false
 ---

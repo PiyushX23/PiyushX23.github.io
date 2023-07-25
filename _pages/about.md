@@ -1,24 +1,33 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-description: Demography, Sociology, Simulation, Data Science
-
+description: Climate Modeling and Dynamics, Data Science, Paleoclimate
 profile:
   align: right
-  image: me.jpg
+  image: id.png
   address: >
-    <p>Lost somewhere in Santiago, Chile</p>
+    <p>Somewhere on California State Route 1, USA</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a data scientist, demographer, and sociologist working on industry and academic projects.
+I'm a climate modeler, data scientist, and keyboard enthusiast with a passion for advancing our comprehension of climate change.
 
-I received my Ph.D. in sociology from the [University of Wisconsin-Madison](http://www.ssc.wisc.edu/soc/) and my Bachelor's and Master's in Sociology from the [Catholic University of Chile](http://sociologia.uc.cl/). 
+I receuved my Ph.D. in Atmospheric Sciences from the [Ohio State University](https://geography.osu.edu/) and my Bachelor's and Master's in Meteorology from the Nanjing University of Information Science and Technology.
 
-My **academic work** focuses on health disparities, criminal justice system's consequences for health and social integration, and the link between health inequalities and genetics. My research relies on statistical and computational methods, emphasizing data science and agent-based modeling (ABM).
+My research falls broadly under two fundamental questions: **(1) What are the causes of past and future changes in oceanic and atmospheric circulation and climate variability? (2) How can we quantitatively interpret these changes and their impacts?** I use an interdisciplinary research approach that combines a hierarchy of climate models, isotope-enabled modeling, statistical and machine learning techniques, and observations/paleoclimate proxies, aiming toward a better understanding of the physical principles that govern climate dynamics in the past and future. 
 
-Currently, I am working as a **Senior Data Scientist**. I am also an **external faculty** in the Master in [Computational Social Science UC3M](https://www.uc3m.es/master/computational-social-science) (Fall 2022-2023), and collaborate with the [Center for the Study of Justice and Society](http://justiciaysociedad.uc.cl/) of the Catholic University of Chile.
+Currently, I am serving as a postdoctoral researcher at the University of Miami, committed to conducting impactful research on the North Atlantic climate change.
+
+
+<br/><br/>
+<br/><br/>
+
+## Selected Publications
+
+<div class="publications">
+ {% bibliography -f chengfei --query @*[tag1=select] --group_by type %}
+</div>
