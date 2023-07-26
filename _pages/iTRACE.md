@@ -8,26 +8,27 @@ nav_order: 5
 ---
 
 
-*an isotope-enabled Transient Climate Experiment for the last deglaciation*
+*iTRACE is an isotope-enabled Transient Climate Experiment for the last deglaciation*
 
+## About
 The iTRACE project offers a publicly accessible collection of climate model simulations, providing explicit simulations of water isotopes and climate change during the last deglaciation. Its primary objective is to comprehend deglacial climate change by comparing the modeled water isotope data against real-world observations. Furthermore, the project proves valuable in investigating the distinct roles played by ice sheets, greenhouse gases, orbital insolation, and meltwater fluxes in shaping past climate change.
 
-Conducted in iCESM1.3, the iTRACE simulations are driven by realistic forcings. The dataset comprises four simulations, with all forcing run: [ice_ghg_orb_wtr], and 3 factorized-forcing runs [ice_ghg_orb], [ice_orb], and [itrace.0x]. For in-depth technical information, interested individuals can refer to the accompanying paper or dissertation.
+Conducted in iCESM1.3, the iTRACE simulations are driven by realistic forcings. The dataset comprises four simulations, with all forcing run: [ice_ghg_orb_wtr](s), and 3 factorized-forcing runs [ice_ghg_orb](s), [ice_orb](s), and [itrace.0x](s). For in-depth technical information, interested individuals can refer to the accompanying paper or dissertation.
 
-
-We kindly ask that you acknowledge the CESM Project and CISL supercomputing resources (doi:10.5065/D6RX99HX) and reference He et al. (2021) when presenting results based on the iTRACE in either oral or written form.
 
 He, C., Liu, Z., Otto-Bliesner, B. L., Brady, E. C., Zhu, C., Tomas, R., Clark, P. U., Zhu, J., Jahn, A., &Gu, S. (2021), Hydroclimate footprint of pan-Asian monsoon water isotope during the last deglaciation, *Science Advances*, *7*(4), eabe2611.
 
 He, C. (2021), Deciphering the deglacial evolution of water isotope and climate in the Northern Hemisphere, The Ohio State University, 2021.
 
 
+We kindly ask that you acknowledge the CESM Project and CISL supercomputing resources (doi:10.5065/D6RX99HX) and reference He et al. (2021) when presenting results based on the iTRACE in either oral or written form.
+
 
 
 <br/><br/>
 
 <p align='center'>
-    <img style="width: 70%; height: 70%" src="https://www.science.org/cms/10.1126/sciadv.abe2611/asset/96141ffa-8441-43e8-9620-11e51d034ccd/assets/graphic/abe2611-f2.jpeg" alt="" title="example image"/>
+    <img style="width: 70%; height: 70%" src="/assets/img/itrace_1.png" alt="" title="example image"/>
 </p>
 <div class="col three caption">
     The iTRACE simulation quantitatively reproduced the last deglacial water isotope and hydroclimate change in the Asian monsoon system (He et al. 2021).
@@ -36,8 +37,7 @@ He, C. (2021), Deciphering the deglacial evolution of water isotope and climate 
 <br/><br/>
 
 
-
-**Project details**
+## Project details
 
 - **Simulation names:**
 - [all-forcing run] *b.e13.Bi1850C5.f19\_g16.xxka.itrace.ice\_ghg\_orb\_wtr.0x.cam.h0.**variable**.model-year.nc*
@@ -49,7 +49,7 @@ He, C. (2021), Deciphering the deglacial evolution of water isotope and climate 
 - [ice run] *b.e13.Bi1850C5.f19\_g16.xxka.itrace.0x.cam.h0.**variable**.model-year.nc*
 
 - *[NOTE] Some runs named in **ice\_ghg\_orb\_mwtr** are also available at Climate Data Gateway. These are failed test runs, so please neglect them.*
-- *[NOTE] For all-forcing runs, please see the roadmap: https://docs.google.com/spreadsheets/d/10WhscwRmVM3FJIPymjcbT6aGKRisAkQ-dnpmxr7Psso/edit?usp=sharing*
+- *[NOTE] For all-forcing runs, please see the [roadmap](https://docs.google.com/spreadsheets/d/10WhscwRmVM3FJIPymjcbT6aGKRisAkQ-dnpmxr7Psso/edit?usp=sharing)*
 
 
 - **Model version:** iCESM1.3
@@ -59,7 +59,7 @@ He, C. (2021), Deciphering the deglacial evolution of water isotope and climate 
 - **Machine:** Cheyenne
 - **Compset:** *Bi1850C5*
 
-**Data Acquisition**
+## Data Acquisition
 
 The data is available on the NCAR Casper **/glade/campaign/cesm/collections/iTRACE** and from the Climate Data Gateway at NCAR.
 
@@ -78,6 +78,17 @@ Upon logging in you will see a ridiculously long list of files. Scroll down unti
 Click the Request File Transfer from Archive or choose an alternative method, and follow the status of the file transfer request
 
 
-**Some Known issues**
+## Some Known issues
 
 Due to the abrupt ocean bathymetry change at 14 and 12ka, our model produced unrealistic short and abrupt shocks in some regions. Independent sensitivity experiments were conducted over several hundred years at 14 and 12ka, with ice-sheet and bathymetry changes implemented approximately 200 years apart. The results of these experiments reveal that the shock responses can be predominantly regarded as a linear superposition of the bathymetry and ice-sheet changes.
+
+
+<br/><br/>
+
+<br/><br/>
+
+## Publications using iTRACE
+
+<div class="publications">
+ {% bibliography -f chengfei --query @*[tag2=itrace] --group_by type %}
+</div>
