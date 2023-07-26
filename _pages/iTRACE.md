@@ -12,7 +12,7 @@ nav_order: 5
 
 The iTRACE project offers a publicly accessible collection of climate model simulations, providing explicit simulations of water isotopes and climate change during the last deglaciation. Its primary objective is to comprehend deglacial climate change by comparing the modeled water isotope data against real-world observations. Furthermore, the project proves valuable in investigating the distinct roles played by ice sheets, greenhouse gases, orbital insolation, and meltwater fluxes in shaping past climate change.
 
-Conducted in iCESM1.3, the iTRACE simulations employ realistic forcings for a comprehensive analysis. The dataset comprises four simulations: (ice_ghg_orb_wtr), encompassing all forcing runs; (ice_ghg_orb), featuring factorized-forcing runs with ice sheet, greenhouse gas, and orbital forcing; (ice_orb), which includes factorized-forcing runs; and (itrace.0x), containing factorized runs with ice sheet forcing. For in-depth technical information, interested individuals can refer to the accompanying paper or dissertation.
+Conducted in iCESM1.3, the iTRACE simulations are driven by realistic forcings. The dataset comprises four simulations, with all forcing run: [ice_ghg_orb_wtr], and 3 factorized-forcing runs [ice_ghg_orb], [ice_orb], and [itrace.0x]. For in-depth technical information, interested individuals can refer to the accompanying paper or dissertation.
 
 
 We kindly ask that you acknowledge the CESM Project and CISL supercomputing resources (doi:10.5065/D6RX99HX) and reference He et al. (2021) when presenting results based on the iTRACE in either oral or written form.
@@ -80,4 +80,4 @@ Click the Request File Transfer from Archive or choose an alternative method, an
 
 **Some Known issues**
 
-Due to the abrupt ocean bathymetry change at 14 and 12ka, our model produced unrealistic short and abrupt shocks in some regions. Independent sensitivity experiments of several hundreds of years are performed at 14 and 12ka with the ice-sheet change and bathymetry change implemented ~200 years apart. These experiments show that the shock responses can be considered largely as a linear superposition to the bathymetry and ice-sheet changes.
+Due to the abrupt ocean bathymetry change at 14 and 12ka, our model produced unrealistic short and abrupt shocks in some regions. Independent sensitivity experiments were conducted over several hundred years at 14 and 12ka, with ice-sheet and bathymetry changes implemented approximately 200 years apart. The results of these experiments reveal that the shock responses can be predominantly regarded as a linear superposition of the bathymetry and ice-sheet changes.
