@@ -63,21 +63,7 @@
       {%- endif -%}
       {%- if author_is_self -%}
         <!-- <em><b>{{author.first}} {{author.last}}</b></em> -->
-        <span id="self-author-{{entry.key}}"><em><b>{{author.first}} {{author.last}}</b></em></span>
-        <script>
-          (function() {
-            var selfAuthor = document.getElementById('self-author-{{entry.key}}');
-            function updateColor() {
-              if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-                selfAuthor.style.color = '#40E0D0'; // Turquoise for dark mode
-              } else {
-                selfAuthor.style.color = '#00BFFF'; // Deep Sky Blue for light mode
-              }
-            }
-            updateColor();
-            window.matchMedia('(prefers-color-scheme: dark)').addListener(updateColor);
-          })();
-        </script>
+        <span style="color: #00BFFF; font-weight: bold;">{{author.first}} {{author.last}}</span>
       
       {%- else -%}
         {%- if coauthor_url -%}
