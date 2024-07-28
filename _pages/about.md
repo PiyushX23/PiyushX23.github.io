@@ -16,11 +16,11 @@ social: false  # includes social icons at the bottom of the page
 
 I'm a climate modeler, data scientist, and keyboard enthusiast with a passion for advancing our comprehension of climate change.
 
-I received my Ph.D. in Atmospheric Sciences from the [Ohio State University](https://geography.osu.edu/) and my Bachelor's and Master's in Meteorology from the [Nanjing University of Information Science and Technology](https://en.nuist.edu.cn/mainm.htm).
+I began my Ph.D. in the [Atmospheric and Oceanic Sciences (AOS) department](https://www.aos.wisc.edu/) at the University of Wisconsin–Madison. However, due to my advisor's new faculty appointment, I transferred to [The Ohio State University](https://geography.osu.edu/). I ultimately received my Ph.D. in Atmospheric Sciences from The Ohio State University. Prior to this, I earned both my Bachelor's and Master's degrees in Meteorology from the Nanjing University of Information Science and Technology in China(https://en.nuist.edu.cn/mainm.htm).
 
-My research falls broadly under two fundamental questions: **(1) What are the causes of past and future changes in oceanic and atmospheric circulation and climate variability? (2) How can we quantitatively interpret these changes and their impacts?** I use an interdisciplinary research approach that combines a hierarchy of climate models, isotope-enabled modeling, statistical and machine learning techniques, and observations/paleoclimate proxies, aiming toward a better understanding of the physical principles that govern climate dynamics in the past and future. 
+My research falls broadly under two fundamental questions: **(1) What are the causes of past and future changes in oceanic and atmospheric circulation and climate variability? (2) How can we quantitatively interpret these changes and their impacts?** I use an interdisciplinary research approach that combines a hierarchy of climate models, isotope-enabled modeling, statistical and machine learning techniques, and observations/paleoclimate proxies, aiming toward a better understanding of the physical processes that govern climate dynamics in the past and future. 
 
-Currently, I am serving as a postdoctoral researcher at RSMAS in the [University of Miami](https://www.earth.miami.edu/), committed to conducting impactful research on the North Atlantic climate change.
+Currently, I am a postdoctoral fellow in the department of physical oceanography at [WHOI](https://www.whoi.edu/), committed to conducting impactful research on global climate change. Prior to moving to WHOI, I was a postdoc at RSMAS in the [University of Miami](https://www.earth.miami.edu/).
 
 
 <br/><br/>
