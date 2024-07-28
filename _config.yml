@@ -262,7 +262,7 @@ scholar:
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
 
-  sort_by: date
+  sort_by: year
   order: descending
   type_aliases: { inproceedings: incollection}
   type_order: [unpublished, article, incollection, report]
