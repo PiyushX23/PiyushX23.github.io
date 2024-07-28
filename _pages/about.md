@@ -22,6 +22,7 @@ My research falls broadly under two fundamental questions: **(1) What are the ca
 
 Currently, I am a postdoctoral fellow in the department of physical oceanography at [WHOI](https://www.whoi.edu/), committed to conducting impactful research on global climate change. Prior to moving to WHOI, I was a postdoc at RSMAS in the [University of Miami](https://www.earth.miami.edu/).
 
+Starting in January 2025, I will be an assistant professor at Northeastern University in Boston. If you are interested in pursuing a Ph.D. in climate modeling and dynamics, please contact me!
 
 <br/><br/>
 <br/><br/>
