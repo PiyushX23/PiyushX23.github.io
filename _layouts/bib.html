@@ -63,7 +63,8 @@
       {%- endif -%}
       {%- if author_is_self -%}
         <!-- <em><b>{{author.first}} {{author.last}}</b></em> -->
-        <span class="self-author" style="background-color: #FFD700; padding: 2px 4px; border-radius: 3px;"><em><b>{{author.first}} {{author.last}}</b></em></span>
+        <!-- <span class="self-author" style="background-color: #FFD700; padding: 2px 4px; border-radius: 3px;"><em><b>{{author.first}} {{author.last}}</b></em></span> -->
+        <span style="color: #00BFFF;"><em><b>{{author.first}} {{author.last}}</b></em></span>
       {%- else -%}
         {%- if coauthor_url -%}
           <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
