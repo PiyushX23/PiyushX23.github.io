@@ -11,7 +11,7 @@ category: current
 Atlantic Multidecadal Variability (AMV), also known as Atlantic Multidecadal Oscillation (AMO), is a climate phenomenon characterized by multidecadal fluctuations in sea surface temperatures (SSTs) in the North Atlantic (Fig. 1). These variations typically occur on timescales of about 50-80 years and can have significant impacts on regional and global scales. 
 
 <p align='center'>
-    <img style="width: 90%; height: 90%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AMO_Pattern.png/320px-AMO_Pattern.png" alt="" title="AMV spatial pattern in SST"/>
+    <img style="width: 90%; height: 90%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AMO_Pattern.png/2880px-AMO_Pattern.png" alt="" title="AMV spatial pattern in SST"/>
 </p>
 
 The driver of the Atlantic Multidecadal Variability (AMV) remains unclear, despite its significance. Various factors are believed to contribute to its variability. One key factor is the Atlantic Meridional Overturning Circulation (AMOC), a planetary-scale ocean circulation that transports energy from the Southern Hemisphere to the Northern Hemisphere. Changes in the AMOC naturally result in variability in the sea surface temperatures (SST) in the North Atlantic [(Zhang et al., 2019)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019rg000644). Although the role of the AMOC has been verified in numerous climate model simulations, direct measurements of AMOC intensity only began in the 2000s, providing insufficient data to conclusively verify this hypothesis.
@@ -36,13 +36,5 @@ So, what is the **DNA** of the AMV? Inspired by [Yan et al. (2017)](https://www.
 Fig. 2 illustrates the correlation between Sahel rainfall/vertical wind shear in the tropical Atlantic (a proxy for hurricane activity) and the AMV from 1950 to 2014. The observed correlation is approximately 0.85 (red star), whereas the correlations in modeled internal variability (shading) are significantly lower. Only a few model members come close to the observed correlation, and none exceed it. This indicates that internal variability and the real world do not share the same DNA. The likelihood of internal variability producing an AMV-Sahel rainfall-Atlantic hurricane system is extremely low—less than 2% (see Extended Data Fig. 5 of [He et al., 2023](https://www.nature.com/articles/s41586-023-06489-4)). In contrast, the forced response (blue star) closely matches the observed value, suggesting that the real world is predominantly influenced by forced responses.
 
 Will the scientific community accept that the AMV has been mostly forced since 1950? I hope so, but it seems unlikely. The pushback I received questioned the weak forced response in the model simulation, despite the fact that not only is the DNA of the forced response similar to the real world, but the time series of forced AMV, hurricane activity, and Sahel rainfall are also highly correlated with observations (see Fig. 2 in [He et al., 2023](https://www.nature.com/articles/s41586-023-06489-4)). The weak forced response is indeed a problem, but it is distinct—the so-called signal-to-noise problem. Why is the modeled forced response so small, and why is the signal-to-noise ratio in the model so low? A problem has to be investigated.
-
-
-<!-- 
-## Publications
-
-<div class="publications">
- {% bibliography -f chengfei --query @*[study=AMV] --group_by type %}
-</div> -->
 
 
