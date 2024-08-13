@@ -21,22 +21,26 @@ nav_order: 6
 
 
 
+## Prospective Postdoc
+I'm always looking for postdocs to join my lab at Northeastern. Opportinuties are based on pending fundings. I am also happy to discuss opportunities and ideas of external fellowships.
 
-I'm a climate modeler, data scientist, and keyboard enthusiast with a passion for advancing our comprehension of climate change.
 
-I began my Ph.D. in the [Atmospheric and Oceanic Sciences (AOS) department](https://www.aos.wisc.edu/) at the University of Wisconsin–Madison. However, due to my advisor's new faculty appointment, I transferred to [The Ohio State University](https://geography.osu.edu/), where I ultimately received my Ph.D. Prior to this, I earned both my Bachelor's and Master's degrees in Meteorology from the [Nanjing University of Information Science and Technology](https://en.nuist.edu.cn/mainm.htm) in China.
+## Prospective Graduate Students
 
-My research falls broadly under two fundamental questions: *(1) What are the causes of past and future changes in oceanic and atmospheric circulation and climate variability? (2) How can we quantitatively interpret these changes and their impacts?* I use an interdisciplinary research approach that combines a hierarchy of climate models, isotope-enabled modeling, statistical and machine learning techniques, and observations/paleoclimate proxies, aiming toward a better understanding of the physical processes that govern climate dynamics in the past and future. 
+I am seeking graduate students to join my lab at Northeastern in Fall 2025. Prospective students with similar research interests are strongly encouraged to apply. Graduate students will primarily be supported through research assistantships, but I am also open to discussing opportunities for external fellowships.
 
-Currently, I am a postdoctoral fellow in the department of physical oceanography at [WHOI](https://www.whoi.edu/), committed to conducting impactful research on global climate change. Prior to moving to WHOI, I was a postdoc at RSMAS in the [University of Miami](https://www.earth.miami.edu/).
+The application deadline is December 1, 2024. See more details of the application [here](https://cos.northeastern.edu/admissions/graduate-programs/how-to-apply/#1590696861008-27b875e2-7000)
 
-Starting in January 2025, I will be an assistant professor at Northeastern University in Boston. **If you are interested in pursuing a Ph.D. in climate modeling and dynamics, please contact me!**
 
-<br/><br/>
-<br/><br/>
+Please email me the following information if you are interested. Note that sending these documents does not constitute a formal application.
 
-## Selected Publications
+●	A 1-page cover letter (please explain your research interests, why you are interested in joining, and your experience working with programming/climate/statistics/physcis);
 
-<div class="publications">
- {% bibliography -f chengfei --query @*[tag1=select] --group_by type %}
-</div>
+●	Your most recent CV, including contact information for three references;
+
+●	PDFs of writing samples (e.g. peer-reviewed article, thesis, essay, preprint; up to 3) 
+
+
+## Undergraduate Students
+If you are interested in gaining research experience in our lab's focus areas, please email me.
+
