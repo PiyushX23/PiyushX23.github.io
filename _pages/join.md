@@ -20,7 +20,7 @@ nav_order: 6
 
 
 ## Prospective Postdoc
-Our lab is always looking for postdocs at Northeastern in climate dynamics and paleoclimate. Opportinuties are based on pending fundings, but I am also happy to discuss opportunities and ideas of external fellowships from [NOAA](https://cpaess.ucar.edu/cgc), [NSF](https://new.nsf.gov/funding/opportunities/atmospheric-geospace-sciences-postdoctoral), and [McDonnell Foundation](https://www.jsmf.org/apply/fellowship/).
+Our lab is always looking for postdocs in climate dynamics and paleoclimate at Northeastern. Opportunities are contingent upon pending funding, but I am also open to discussing external fellowship opportunities from [NOAA](https://cpaess.ucar.edu/cgc), [NSF](https://new.nsf.gov/funding/opportunities/atmospheric-geospace-sciences-postdoctoral), and [McDonnell Foundation](https://www.jsmf.org/apply/fellowship/).
 
 
 
