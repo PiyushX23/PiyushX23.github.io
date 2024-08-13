@@ -22,7 +22,7 @@ nav_order: 6
 ## Prospective Postdoc
 Our lab is always looking for postdocs in climate dynamics and paleoclimate at Northeastern. Opportunities are contingent upon pending funding, but I am also open to discussing external fellowship opportunities from [NOAA](https://cpaess.ucar.edu/cgc), [NSF](https://new.nsf.gov/funding/opportunities/atmospheric-geospace-sciences-postdoctoral), and [McDonnell Foundation](https://www.jsmf.org/apply/fellowship/).
 
-
+<br/><br/>
 
 ## Prospective Graduate Students
 
@@ -36,11 +36,11 @@ Please email me the following information if you are interested. Note that sendi
 
 
 
-●	A 1-page cover letter (please explain your research interests, why you are interested in joining, and your experience working with programming/climate/statistics/physcis);
+●	A short writeup to explain your research interests, why you are interested in joining, and your experience working with programming/climate/statistics/physcis;
 
 ●	Your most recent CV, including contact information for three references;
 
-
+<br/><br/>
 
 ## Undergraduate Students
 If you are interested in gaining research experience in our lab's focus areas, please email me.Undergraduates are also encouraged to apply for scholarships from [NOAA](https://www.noaa.gov/office-education/hollings-scholarship), [NSF](https://www.nsf.gov/crssprgm/reu/), and [AMS](https://www.ametsoc.org/index.cfm/ams/information-for/students/ams-scholarships-and-fellowships/women-in-science-scholarship/).
