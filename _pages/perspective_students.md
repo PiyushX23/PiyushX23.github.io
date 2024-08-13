@@ -1,6 +1,6 @@
 ---
-layout: about
-title: Perspective Lab Members
+layout: page
+title: Join!
 nav: true
 nav_order: 6
 # permalink: /
