@@ -8,6 +8,7 @@ children:
 
     - title: Open Science
       permalink: /open_science/
+    - title: divider
     - title: CV
       permalink: /cv/
     - title: divider
