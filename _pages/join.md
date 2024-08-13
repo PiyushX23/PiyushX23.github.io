@@ -1,20 +1,26 @@
 ---
-layout: page
+layout: post
 title: Join!
 nav: true
 nav_order: 6
 # permalink: /
 # description: Climate Modeling and Dynamics, Data Science, Paleoclimate
-profile:
-  align: top
-  image: id.png
-  address: >
-    <p>Somewhere on California State Route 1, USA</p>
-
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
 ---
+
+
+<br/><br/>
+
+<p align='center'>
+    <img style="width: 100%; height: 100%" src="/assets/img/population.jpeg" alt="" title="Join!"/>
+</p>
+<!-- <div class="col three caption">
+    The iTRACE simulation quantitatively reproduced the last deglacial water isotope and hydroclimate change in the Asian monsoon system (He et al. 2021).
+</div> -->
+
+<br/><br/>
+
+
+
 
 I'm a climate modeler, data scientist, and keyboard enthusiast with a passion for advancing our comprehension of climate change.
 
