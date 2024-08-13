@@ -8,8 +8,8 @@ children:
     - title: CV
       permalink: /cv/
     # - title: divider
-    # - title: projects
-      # permalink: /projects/
+    - title: Open Science
+      permalink: /open_science/
     # - title: divider
     - title: repos
       permalink: /repos/   

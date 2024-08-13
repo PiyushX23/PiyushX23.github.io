@@ -3,7 +3,7 @@ layout: page
 title: Open Science
 permalink: /open_science/
 description:
-nav: True
+nav: false
 nav_order: 6
 display_categories: [Open-Science]
 horizontal: false
