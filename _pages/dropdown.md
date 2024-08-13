@@ -1,16 +1,16 @@
 ---
 layout: page
-title: academia
-nav: False
-nav_order: 6
-dropdown: False
+title: more
+nav: true
+nav_order: 7
+dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
-    - title: divider
-    - title: projects
-      permalink: /projects/
-    - title: divider
-    - title: teaching
-      permalink: /teaching/   
+    - title: CV
+      permalink: /cv/
+    # - title: divider
+    # - title: projects
+      # permalink: /projects/
+    # - title: divider
+    - title: repos
+      permalink: /repos/   
 ---
