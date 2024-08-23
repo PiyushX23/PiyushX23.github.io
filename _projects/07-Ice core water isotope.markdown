@@ -7,20 +7,6 @@ importance: 3
 category: previous
 ---
 
-*place holder*
-
-Place holder
-
-Place holder
-<br/><br/>
-
-<p align='center'>
-    <img style="width: 70%; height: 70%" src="{{ site.baseurl }}/assets/img/abm.gif" alt="" title="example image"/>
-</p>
-<div class="col three caption">
-    Agents moving across counties / neighborhoods based on the income of their residents.
-</div>
-
 <br/><br/>
 
 ## Publications

@@ -9,18 +9,6 @@ category: previous
 
 *The Bjerknes compensation (BJC) refers to the tendency for changes in the atmosphere heat transport (AHT) and ocean heat transport (OHT) to compensate each other. But why?*
 
-Place holder
-
-Place holder
-<br/><br/>
-
-<p align='center'>
-    <img style="width: 70%; height: 70%" src="{{ site.baseurl }}/assets/img/abm.gif" alt="" title="example image"/>
-</p>
-<div class="col three caption">
-    Agents moving across counties / neighborhoods based on the income of their residents.
-</div>
-
 <br/><br/>
 
 ## Publications

@@ -14,14 +14,6 @@ I conducted the first set of isotope-enabled transient climate experiments (iTRA
 
 <br/><br/>
 
-<p align='center'>
-    <img style="width: 90%; height: 90%" src="{{ site.baseurl }}/assets/img/reentry-work-sequence.png" alt="" title="example image"/>
-</p>
-<!-- <div class="col three caption">
-    Proportion of women reporting substance use by day after release.
-</div> -->
-
-<br/><br/>
 
 ## Publications
 
