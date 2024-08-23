@@ -11,9 +11,9 @@ nav_order: 5
 *iTRACE is an isotope-enabled Transient Climate Experiment for the last deglaciation*
 
 ## About
-The iTRACE project offers a publicly accessible collection of climate model simulations, providing explicit simulations of water isotopes and climate change during the last deglaciation. Its primary objective is to comprehend deglacial climate change by comparing the modeled water isotope data against real-world observations. Furthermore, the project proves valuable in investigating the distinct roles played by ice sheets, greenhouse gases, orbital insolation, and meltwater fluxes in shaping past climate change.
+The iTRACE project offers a publicly accessible collection of climate model simulations, providing explicit simulations of water isotopes and climate change during the last deglaciation. Its primary objective is to comprehend deglacial climate change by comparing the modeled water isotope against paleoclimate proxies. The project also proves valuable in investigating the distinct roles played by ice sheets, greenhouse gases, orbital insolation, and meltwater fluxes in shaping past climate change.
 
-Conducted in iCESM1.3, the iTRACE simulations are driven by realistic forcings. The dataset comprises four simulations, with all forcing run: [ice_ghg_orb_wtr](s), and 3 factorized-forcing runs [ice_ghg_orb](s), [ice_orb](s), and [itrace.0x](s). For in-depth technical information, interested individuals can refer to the accompanying paper or dissertation.
+Conducted in iCESM1.3, the iTRACE simulations are driven by realistic forcings. The dataset comprises four simulations, with all forcing run: [ice_ghg_orb_wtr](s), and 3 factorized-forcing runs [ice_ghg_orb](s), [ice_orb](s), and [itrace.0x](s). For in-depth technical information, interested users can refer to the accompanying paper or dissertation.
 
 
 He, C., Liu, Z., Otto-Bliesner, B. L., Brady, E. C., Zhu, C., Tomas, R., Clark, P. U., Zhu, J., Jahn, A., &Gu, S. (2021), Hydroclimate footprint of pan-Asian monsoon water isotope during the last deglaciation, *Science Advances*, *7*(4), eabe2611.
