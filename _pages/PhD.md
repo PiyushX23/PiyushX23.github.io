@@ -37,15 +37,14 @@ The position will be funded on research and teaching assistantships for up to fi
 
 
 ## More info 
-Northeastern Department of Marine & Environmental Sciences (https://catalog.northeastern.edu/graduate/science/marine-environmental-sciences/marine-environmental-sciences-phd/ )
+[Northeastern Department of Marine & Environmental Sciences](https://catalog.northeastern.edu/graduate/science/marine-environmental-sciences/marine-environmental-sciences-phd/ )
 
-Northeastern Facts & Figures (https://facts.northeastern.edu/)
+[Northeastern Facts & Figures](https://facts.northeastern.edu/)
 
-PI (https://yefee.github.io/) 
 
 Questions can be directed to chengfei.he@whoi.edu. Prospective candidates are encouraged to email to express their interest and discuss potential research projects.
 
 
 ## How to apply 
-Qualified applicants are invited to apply for graduate admission to the Department of Marine & Environmental Science (MES) at Northeastern. The priority application deadline is December 1, 2024 . Application link: https://phd.northeastern.edu/program/marine-and-environmental-sciences-2/
+Qualified applicants are invited to apply for graduate admission to the Department of Marine & Environmental Science (MES) at Northeastern. The priority application deadline is **December 1, 2024**. [Application Link](https://phd.northeastern.edu/program/marine-and-environmental-sciences-2/).
 
