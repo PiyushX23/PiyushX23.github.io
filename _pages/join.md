@@ -20,7 +20,7 @@ nav_order: 6
 
 
 ## Postdocs
-Our lab is always looking for postdocs in climate dynamics and paleoclimate at Northeastern. Opportunities are contingent upon pending fundings, but I am also open to discussing external fellowship opportunities from [NOAA](https://cpaess.ucar.edu/cgc), [NSF](https://new.nsf.gov/funding/opportunities/atmospheric-geospace-sciences-postdoctoral), and [McDonnell Foundation](https://www.jsmf.org/apply/fellowship/).
+Our lab is always looking for postdocs in climate dynamics and paleoclimate at Northeastern. Opportunities are contingent upon pending fundings. I am also open to discussing both internal and external fellowship opportunities from [Northeastern's Future Faculty Fellowship](https://faculty.northeastern.edu/advance/faculty-recruitment/future-faculty-fellowship-2/), [NOAA](https://cpaess.ucar.edu/cgc), [NSF](https://new.nsf.gov/funding/opportunities/atmospheric-geospace-sciences-postdoctoral), and [McDonnell Foundation](https://www.jsmf.org/apply/fellowship/).
 
 <br/><br/>
 
@@ -42,5 +42,5 @@ Please email me the following information if you are interested. Note that sendi
 <br/><br/>
 
 ## Undergraduate Students
-If you are interested in gaining research experience in our lab's focus areas, please email me.Undergraduates are also encouraged to apply for scholarships from [NOAA](https://www.noaa.gov/office-education/hollings-scholarship), [NSF](https://www.nsf.gov/crssprgm/reu/), and [AMS](https://www.ametsoc.org/index.cfm/ams/information-for/students/ams-scholarships-and-fellowships/women-in-science-scholarship/).
+If you are interested in gaining research experience in our lab's focus areas, please email me.Undergraduates are also encouraged to apply for Northeastern's [PEAK Awards](https://undergraduate.northeastern.edu/research/) and [AJC Merit Research Scholarship](https://undergraduate.northeastern.edu/research/awards/ajc-merit-research-scholarship/), as well as extenral scholarships from [NOAA](https://www.noaa.gov/office-education/hollings-scholarship), [NSF](https://www.nsf.gov/crssprgm/reu/), and [AMS](https://www.ametsoc.org/index.cfm/ams/information-for/students/ams-scholarships-and-fellowships/women-in-science-scholarship/).
 
