@@ -42,5 +42,7 @@ Please email me the following information if you are interested. Note that sendi
 <br/><br/>
 
 ## Undergraduate Students
-If you are interested in gaining research experience in our lab's focus areas, please email me.Undergraduates are also encouraged to apply for Northeastern's [PEAK Awards](https://undergraduate.northeastern.edu/research/) and [AJC Merit Research Scholarship](https://undergraduate.northeastern.edu/research/awards/ajc-merit-research-scholarship/), as well as extenral scholarships from [NOAA](https://www.noaa.gov/office-education/hollings-scholarship), [NSF](https://www.nsf.gov/crssprgm/reu/), and [AMS](https://www.ametsoc.org/index.cfm/ams/information-for/students/ams-scholarships-and-fellowships/women-in-science-scholarship/).
+If you are a master's or undergraduate student interested in gaining research experience in our lab's focus areas, please email me.
+
+Undergraduates are also encouraged to apply for Northeastern's [PEAK Awards](https://undergraduate.northeastern.edu/research/) and [AJC Merit Research Scholarship](https://undergraduate.northeastern.edu/research/awards/ajc-merit-research-scholarship/), as well as extenral scholarships from [NOAA](https://www.noaa.gov/office-education/hollings-scholarship), [NSF](https://www.nsf.gov/crssprgm/reu/), and [AMS](https://www.ametsoc.org/index.cfm/ams/information-for/students/ams-scholarships-and-fellowships/women-in-science-scholarship/).
 
