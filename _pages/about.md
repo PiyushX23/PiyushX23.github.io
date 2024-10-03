@@ -2,12 +2,12 @@
 layout: about
 title: About
 permalink: /
-description: Climate Modeling and Dynamics, Data Science, Paleoclimate
+description: Aerosol-Clou-Climate Interactions, Satellite Remote Sensing, Data Science
 profile:
   align: right
   image: id.png
-  address: >
-    <p>Somewhere on California State Route 1, USA</p>
+  # address: >
+  #   <p>Somewhere on California State Route 1, USA</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
