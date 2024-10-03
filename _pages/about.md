@@ -30,5 +30,5 @@ If you’re into atmospheric science, remote sensing, or just want to geek out o
 ## Selected Publications
 
 <div class="publications">
- {% bibliography -f chengfei --query @*[tag1=select] --group_by type %}
+ {% bibliography -f piyush --query @*[tag1=select] --group_by type %}
 </div>

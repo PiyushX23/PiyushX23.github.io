@@ -1,0 +1,38 @@
+---
+layout: page
+title: "India's Smog Crisis"
+description: This research focuses on estimating Cloud Condensation Nuclei (CCN) concentrations using space-borne lidar data.
+img: /assets/img/publication_preview/smog_satellite.png
+importance: 1
+category: current
+---
+
+<br/><br/>
+
+<p align='center'>
+    <img style="width: 50%; height: 50%" src="{{ site.baseurl }}/assets/img/publication_preview/smog_satellite.png" alt="" title="example image"/>
+    <img style="width: 35%; height: 35%" src="{{ site.baseurl }}/assets/img/smog_grl/aod_vs_heating_rate.png" alt="" title="example image"/>
+</p>
+<!-- <div class="col three caption">
+    Proportion of women reporting substance use by day after release.
+</div> -->
+
+<br/><br/>
+
+This paper investigates the intensifying smog problem in India, attributing its severity to the rising lower tropospheric stability, which traps pollutants near the surface. The study delves into the aerosol-radiation effects, showing how these interactions further destabilize the atmosphere, leading to even more persistent and dense smog conditions. These findings highlight the critical role of atmospheric dynamics in worsening air quality and emphasize the urgent need for advanced mitigation strategies. This research is pivotal for developing targeted policies and technological solutions to address the growing air pollution crisis in India.
+
+<br/><br/>
+
+Key Points:
+
+<ul>
+  <li><strong>Increased Atmospheric Stability</strong>: Rising lower tropospheric stability is linked to more severe and persistent smog in India due to reduced vertical mixing of pollutants.</li>
+  <li><strong>Aerosol-Radiation Effect</strong>: Aerosols contribute to smog intensification by altering radiation patterns, trapping heat, and enhancing atmospheric stability.</li>
+  <li>Effective air quality management in India must address both emissions and atmospheric conditions, including improved forecasting of meteorological factors and aerosol interactions.</li>
+</ul>
+
+<!-- ## Publications -->
+
+<div class="publications">
+ {% bibliography -f piyush --query @*[study=smog] --group_by type %}
+</div>

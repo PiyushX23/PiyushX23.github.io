@@ -3,7 +3,7 @@ layout: page
 permalink: /iTRACE/
 title: iTRACE
 description:
-nav: true
+nav: false
 nav_order: 5
 ---
 

@@ -1,0 +1,37 @@
+---
+layout: page
+title: "Dust-Ice cloud-Precipitation Interactions"
+description: This research focuses on estimating Cloud Condensation Nuclei (CCN) concentrations using space-borne lidar data.
+img: /assets/img/publication_preview/dust_ice.png
+importance: 1
+category: current
+---
+
+<br/><br/>
+
+<p align='center'>
+    <img style="width: 50%; height: 50%" src="{{ site.baseurl }}/assets/img/publication_preview/dust_ice.png" alt="" title="example image"/>
+    <!-- <img style="width: 35%; height: 35%" src="{{ site.baseurl }}/assets/img/smog_grl/aod_vs_heating_rate.png" alt="" title="example image"/> -->
+</p>
+<!-- <div class="col three caption">
+    Proportion of women reporting substance use by day after release.
+</div> -->
+
+<br/><br/>
+
+This paper investigates the role of mineral dust aerosols in influencing Indian Summer Monsoon (ISM) rainfall by interacting with ice clouds. Using 11 years of multisatellite data, the research shows that dust aerosols alter ice cloud properties, particularly in thick cloud regimes, increasing ice particle radius and ice water path. This cloud deepening leads to enhanced precipitation susceptibility, especially under strong updraft conditions. The findings indicate a significant link between dust aerosol interactions and the variability of monsoon rainfall, with dust-induced microphysical changes in clouds amplifying precipitation intensity. The study highlights the need to incorporate such aerosol-cloud interactions into climate models to improve the accuracy of monsoon precipitation predictions.
+
+<br/><br/>
+
+Key Points:
+
+<ul>
+  <li><strong>Enhanced Ice Cloud Formation</strong>: Mineral dust increases ice nucleation, especially in thick clouds, contributing to greater cloud water content and deeper clouds.</li>
+  <li><strong>Meteorological Regime Dependency</strong>: The influence of dust on cloud and precipitation formation is highly dependent on strong updraft regimes, where convective dynamics amplify cloud development.</li>
+  <li><strong>Negative Feedback Mechanism</strong>: Dust-induced cloud invigoration can provide a buffering effect, reducing the efficiency of aerosol scavenging and potentially stabilizing aerosol-cloud interactions.</li>
+</ul>
+<!-- ## Publications -->
+
+<div class="publications">
+ {% bibliography -f piyush --query @*[study=dustice] --group_by type %}
+</div>
