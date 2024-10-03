@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: Aerosol-Clou-Climate Interactions, Satellite Remote Sensing, Data Science
+description: Aerosol-Cloud-Climate Interactions, Satellite Remote Sensing, Data Science
 profile:
   align: right
   image: id.png
